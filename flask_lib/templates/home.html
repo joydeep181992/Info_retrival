@@ -1,0 +1,10 @@
+{% extends "layout.html" %}
+{% block content %}
+    {% for person in bs_group %}
+        <h1>{{ person.name }}</h1>
+        <p>Nick Name: {{ person.nick_name }}</p>
+        <p>Role: {{ person.role }}</p>
+    {% endfor %}
+{% endblock %}
+
+
