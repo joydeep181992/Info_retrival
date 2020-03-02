@@ -9,8 +9,8 @@ bs_group = [
     },
     {
         'name': 'Monika',
-        'nick_name': 'Mosi Tosi Meowsi',
-        'role': 'says meow meow all the time',
+        'nick_name': 'MTM',
+        'role': 'meow',
     },
     {
         'name': 'Nirupama',
